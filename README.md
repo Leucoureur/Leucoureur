@@ -47,6 +47,7 @@ Assistant de voyage intelligent utilisant l'IA pour optimiser vos itinéraires e
 ## 📫 Contact
 
 **Email:** leucoureur.robson@gmail.com
+**Curriculum vitae:** [David Leucoureur](https://drive.google.com/file/d/1cz4ZGI6YHdWmt6VELpgZIbFrLpqa-iYj/view?usp=sharing)
 
 Ouvert à toute opportunité professionnelle permettant d'évoluer dans le développement backend et l'IA.
 
