@@ -40,7 +40,7 @@ Intelligence Artificielle • Architecture Backend • Systèmes Linux
 
 ## 📌 Projet principal
 
-### [TravelMATE](https://github.com/votre-username/travelMATE)
+### [TRAVELMATE](https://github.com/Leucoureur/TravelMate)
 Assistant de voyage intelligent utilisant l'IA pour optimiser vos itinéraires et recommandations.
 
 ---
@@ -54,5 +54,5 @@ Ouvert à toute opportunité professionnelle permettant d'évoluer dans le déve
 ---
 
 <div align="center">
-  <i>« Keep it simple, keep it clean »</i>
+  <i>« BTW , i use Archlinux »</i>
 </div>
